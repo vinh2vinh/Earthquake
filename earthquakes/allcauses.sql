@@ -1,0 +1,3 @@
+SELECT DISTINCT c_natural
+FROM CAUSE
+;
